@@ -1,7 +1,7 @@
 ## 👩‍🏫 Learn 2U : 너에게 배우다
 C#과 SQL Server를 연동한 .NET 프레임워크 기반의 Windows Forms 튜터링 프로그램입니다.
 
-![Learn2U](https://user-images.githubusercontent.com/110330040/185016248-6c25fcd9-5cf8-4b8d-ab2f-66b88cb98300.png)
+![Learn2U](https://github.com/hyed0ni/Learn2U/assets/110330040/b31329ca-6399-4633-969b-8acc89812bf5)
 
 <br>
 
